@@ -5,7 +5,7 @@
 .sec1{
     width: 100%;
     height: 100vh;
-    background: url(../img/slide04.jpg);
+    background: url(slide04.jpg);
     background-size: cover;
 }
 header{
@@ -92,11 +92,11 @@ height: 250px;
 margin-bottom: 15px;
 }
 .lside .up{
-    background-image: url(../img/pic02.jpg);
+    background-image: url(pic02.jpg);
     background-size: cover;
 }
 .rside .up{
-    background-image: url(../img/pic03.jpg);
+    background-image: url(pic03.jpg);
     background-size: cover;
 }
 .lside .down,.rside .down{
@@ -141,7 +141,7 @@ a{
 .sec3{
     width: 100%;
     height: 150px;
-    background-image: url(../img/bg.jpg);
+    background-image: url(bg.jpg);
 }
 .mid{
     width: 60vw;
@@ -189,16 +189,16 @@ a{
     border-radius: 5px;
 }
 .upside .photo:first-child{
-    background-image: url(../img/pic01.jpg);
+    background-image: url(pic01.jpg);
 }
 .upside .photo:last-child{
-    background-image: url(../img/pic02.jpg);
+    background-image: url(pic02.jpg);
 }
 .downside .photo:first-child{
-    background-image: url(../img/pic03.jpg);
+    background-image: url(pic03.jpg);
 }
 .downside .photo:last-child{
-    background-image: url(../img/pic04.jpg);
+    background-image: url(pic04.jpg);
 }
 .upside .photo , .downside .photo{
     background-size: cover;
